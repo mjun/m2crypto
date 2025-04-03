@@ -9,8 +9,8 @@ M2Crypto
 :Issue tracker: https://todo.sr.ht/~mcepl/m2crypto (R/O, please
                 report issues via the email list).
 
-**This fork contains the `following debian patch <https://sources.debian.org/patches/m2crypto/0.42.0-3/0004-swig-Workaround-for-reading-sys-select.h-ending-with.patch/>`_ so it builds on Debian 13.
-You can use it directly in requirements.txt like so:**
+This fork contains the `following debian patch <https://sources.debian.org/patches/m2crypto/0.42.0-3/0004-swig-Workaround-for-reading-sys-select.h-ending-with.patch/>`_ so it builds on Debian 13.
+You can use it directly in requirements.txt like so:
 
 ``https://github.com/mjun/m2crypto/archive/master.zip#egg=M2Crypto``
 
